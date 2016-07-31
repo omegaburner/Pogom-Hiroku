@@ -19,26 +19,17 @@
     "USERNAME2": {
       "description": "Your username to login to the specified authentication service."
     },
-    "PASSWORD2": {
-      "description": "Your password to login to the specified authentication service."
-    },
     "LOCATION2": {
       "description": "Location on which the map should be centered. This can be an address, co-ordinates or any string that Google Maps accepts."
     },
     "USERNAME3": {
       "description": "Your username to login to the specified authentication service."
     },
-    "PASSWORD3": {
-      "description": "Your password to login to the specified authentication service."
-    },
     "LOCATION3": {
       "description": "Location on which the map should be centered. This can be an address, co-ordinates or any string that Google Maps accepts."
     },
     "USERNAME4": {
       "description": "Your username to login to the specified authentication service."
-    },
-    "PASSWORD4": {
-      "description": "Your password to login to the specified authentication service."
     },
     "LOCATION4": {
       "description": "Location on which the map should be centered. This can be an address, co-ordinates or any string that Google Maps accepts."
