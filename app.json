@@ -1,0 +1,62 @@
+{
+  "name": "PogoMap",
+  "description": "The fastest Pokémon Go Map available",
+  "repository": "https://github.com/favll/pogom",
+  "keywords": ["pokemon", "pokemon go"],
+  "env": {
+    "AUTH_SERVICE": {
+      "description": "Authentication service to use. [ptc|google]"
+    },
+    "USERNAME": {
+      "description": "Your username to login to the specified authentication service."
+    },
+    "PASSWORD": {
+      "description": "Your password to login to the specified authentication service."
+    },
+    "LOCATION": {
+      "description": "Location on which the map should be centered. This can be an address, co-ordinates or any string that Google Maps accepts."
+    },
+    "USERNAME2": {
+      "description": "Your username to login to the specified authentication service."
+    },
+    "PASSWORD2": {
+      "description": "Your password to login to the specified authentication service."
+    },
+    "LOCATION2": {
+      "description": "Location on which the map should be centered. This can be an address, co-ordinates or any string that Google Maps accepts."
+    },
+    "USERNAME3": {
+      "description": "Your username to login to the specified authentication service."
+    },
+    "PASSWORD3": {
+      "description": "Your password to login to the specified authentication service."
+    },
+    "LOCATION3": {
+      "description": "Location on which the map should be centered. This can be an address, co-ordinates or any string that Google Maps accepts."
+    },
+    "USERNAME4": {
+      "description": "Your username to login to the specified authentication service."
+    },
+    "PASSWORD4": {
+      "description": "Your password to login to the specified authentication service."
+    },
+    "LOCATION4": {
+      "description": "Location on which the map should be centered. This can be an address, co-ordinates or any string that Google Maps accepts."
+    },
+    "GMAPS_KEY": {
+      "description": "A Google Maps API key for this application."
+    },
+    "RADIUS": {
+      "description": "Search radius in meters.",
+      "value": "3500"
+    },
+    "RADIUS2": {
+      "description": "Search radius in meters.",
+      "value": "1500"
+	},
+    "EXTRA_ARGS": {
+      "description": "Any extra arguments that you want to pass to runserver.py.",
+      "required": false
+    }
+  }
+}
